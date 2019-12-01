@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049030778719",
+    "firebase_url": "https://fbimageupload-cad12.firebaseio.com",
+    "project_id": "fbimageupload-cad12",
+    "storage_bucket": "fbimageupload-cad12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049030778719:android:0ba599484d9b276ee160ea",
+        "android_client_info": {
+          "package_name": "com.injila.fbimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049030778719-qggo22fllmboi67eds5ch8ctirtp2bgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.injila.fbimageupload",
+            "certificate_hash": "5491cd1c26a5192c2f016acda2b9e514ed089111"
+          }
+        },
+        {
+          "client_id": "1049030778719-na5amol9mom1u7djpichgf6ijentm05m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7RYs3Uoy-6Nb8oH9iN9knDzVOkRnxaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049030778719-na5amol9mom1u7djpichgf6ijentm05m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
